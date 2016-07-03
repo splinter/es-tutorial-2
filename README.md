@@ -1,5 +1,5 @@
 #Prerequisites
-- WSO2 Governance Registry 5.2.0 which you can download (here)[http://wso2.com/products/governance-registry/]
+- WSO2 Governance Registry 5.2.0 which you can download [here](http://wso2.com/products/governance-registry/)
 
 #Installation
 - Shutdown the Governance Registry server if it is running
